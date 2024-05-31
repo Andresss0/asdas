@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "funcion.h" // Incluir el archivo de encabezado
+#include "funcion.h" 
+
  
 int main() {
     Producto productos[MAX_PRODUCTOS];
