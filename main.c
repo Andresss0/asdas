@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "funcion.h" 
-
+#include "funcion.h"
  
 int main() {
     Producto productos[MAX_PRODUCTOS];
@@ -42,3 +41,5 @@ int main() {
  
     return 0;
 }
+ 
+
